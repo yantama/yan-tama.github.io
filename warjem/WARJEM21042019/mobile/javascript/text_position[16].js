@@ -1,0 +1,1 @@
+﻿positionForPages[16]={page:16,positions:[{word:"- 15 - ",left:0.479231,top:0.015061,width:0.047268,height:0.017927},{word:"GREJA KRISTEN JAWI WETAN – JEMAAT TROSOBO ",left:0.272970,top:0.965257,width:0.459789,height:0.017927}]};
